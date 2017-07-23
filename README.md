@@ -1,2 +1,2 @@
-# BrainJolt
-Github Pages website
+# sensorydatascience
+Sensory Data Science GitHub pages for website
